@@ -1,2 +1,2 @@
-# ci-core
+# CodeIgniter Custom
 CodeIgniter core custom by ngthuc
