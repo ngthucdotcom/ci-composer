@@ -1,16 +1,35 @@
 {
-    "name": "your-brand-name/your-project",
-    "type": "library",
-    "description": "Your package description goes here",
-    "keywords": ["relevant","tags","go","here"],
-    "homepage": "https://yourcompany.com",
+    "description": "The CodeIgniter framework with core custom",
+    "name": "ngthuc/ci-custom-core",
+    "type": "project",
+    "keywords": ["ngthuc","ci-custom-core","codeigniter","custom"],
+    "homepage": "https://ngthucdotcom.github.io/ci-core/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jordi Boggiano",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be",
+            "name": "Nguyen Thuc",
+            "email": "contact@ngthuc.com",
+            "homepage": "https://ngthuc.com",
             "role": "Developer"
+        },
+        {
+            "name": "EllisLab",
+            "role": "Founder of CodeIgniter"
+        },
+        {
+            "name": "B.C. Institute of Technology",
+            "role": "Manager and Maintainer of CodeIgniter"
+        },
+        {
+            "name": "",
+            "homepage": "https://github.com/ngthucdotcom/ci-core/contributors",
+            "role": "Contributor"
         }
     ],
+    "require": {
+		"php": ">=5.3.7"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	}
 }
