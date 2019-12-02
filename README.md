@@ -4,16 +4,15 @@ CodeIgniter core custom by ngthuc
 # Installation
 --------------------------
 * Run composer update via command line at root folder
-
 ```shell
-composer update
+composer create-project ngthuc/ci-custom-core
 ```
 * Create .env file same [.]env to set-up database
 
 # Authors and contact
 --------------------------
-* Nguyen Thuc
-* Homepage: [ngthuc](https://ngthuc.github.io/).com
+* [Nguyen Thuc](https://ngthuc.github.io/)
+* Homepage: ngthuc.com
 * Email: contact[at]ngthuc.com
 
 # Credit
