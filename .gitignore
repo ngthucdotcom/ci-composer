@@ -31,15 +31,3 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
-
-# Github Files
-CODE_OF_CONDUCT.md
-.github
-_config.yml
-
-# CodeIgniter root source
-/user_guide/
-composer_origin_ci
-contributing.md
-license.txt
-readme.rst
