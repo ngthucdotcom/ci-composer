@@ -177,8 +177,6 @@ switch (ENVIRONMENT)
  * Un-comment the $assign_to_config array below to use this feature
  */
 	// $assign_to_config['name_of_config_item'] = 'value of config item';
-	$dotenv = Dotenv\Dotenv::create('\\Path\\to\\.env');
-	$dotenv->load();
 
 
 // --------------------------------------------------------------------
@@ -313,4 +311,5 @@ switch (ENVIRONMENT)
  *
  * And away we go...
  */
+
 require_once BASEPATH.'core/CodeIgniter.php';
