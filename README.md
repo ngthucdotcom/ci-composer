@@ -1,6 +1,3 @@
-# CodeIgniter Custom
-CodeIgniter core custom by ngthuc
-
 # Installation
 --------------------------
 * Run composer update via command line at root folder
@@ -13,6 +10,7 @@ composer create-project ngthuc/ci-custom-core
 --------------------------
 * [Nguyen Thuc](https://ngthuc.github.io/)
 * Homepage: ngthuc.com
+* Packagist: [CodeIgniter custom core](https://packagist.org/packages/ngthuc/ci-custom-core) by ngthuc
 * Email: contact[at]ngthuc.com
 
 # Credit
