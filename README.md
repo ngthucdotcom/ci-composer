@@ -1,10 +1,15 @@
 # Installation
 --------------------------
-* Run composer update via command line at root folder
+1. Run composer create project (for init new project) or update (for reload dependencies on new environment) via command line at root folder
+* Create project
 ```shell
 composer create-project ngthuc/ci-custom-core
 ```
-* Create .env file same [.]env to set-up database
+* Reload dependencies
+```shell
+composer update
+```
+2. Create .env file same [.]env to set-up database
 
 # Authors and contact
 --------------------------
