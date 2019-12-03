@@ -34,10 +34,11 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 # Github Files
 CODE_OF_CONDUCT.md
-.github
+/.github/
 _config.yml
 
 # CodeIgniter root source
+/system/
 /user_guide/
 composer_origin_ci
 contributing.md
