@@ -33,8 +33,6 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/results/
 
 # Github Files
-CODE_OF_CONDUCT.md
-/.github/
 _config.yml
 
 # CodeIgniter root source
