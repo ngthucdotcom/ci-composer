@@ -21,26 +21,27 @@ composer require ngthuc/ci-custom-core
 ```shell
 composer update
 ```
-2. Move files from `/vendor/ngthuc/ci-custom-core/` to the root folder structure:
+2. Move all files from `/vendor/ngthuc/ci-custom-core/core/` to the root folder structure:
 ```shell
 root                          # → Root Directory
 └── vendor/
     └── ngthuc/
-        └── ci-custom-core
-            ├── apllication/
-            ├── public/
-            ├── .bowerrc
-            ├── .editorconfig
-            ├── .gitignore
-            ├── .htaccess
-            ├── [.]env
-            ├── bower.json
-            ├── index.php
-            └── LICENSE.txt
+        └── ci-custom-core/
+            └── core/
+                ├── apllication/
+                ├── public/
+                ├── .bowerrc
+                ├── .editorconfig
+                ├── .gitignore
+                ├── .htaccess
+                ├── [.]env
+                ├── bower.json
+                ├── index.php
+                └── license.txt
 ```
 3. Create .env file same [.]env to set-up database
 
-# Authors and contact
+# Authors
 --------------------------
 * [Nguyen Thuc](https://ngthuc.github.io/)
 * Homepage: ngthuc.com
