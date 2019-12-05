@@ -36,7 +36,6 @@ root                          # → Root Directory
                 ├── .htaccess
                 ├── [.]env
                 ├── bower.json
-                ├── composer.json
                 ├── index.php
                 └── license.txt
 ```
