@@ -39,3 +39,5 @@ readme.rst
 # Github Files
 /.github/
 CODE_OF_CONDUCT.md
+
+*.zip
