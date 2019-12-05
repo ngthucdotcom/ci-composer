@@ -21,7 +21,6 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /user_guide/
 composer_origin_ci
 contributing.md
-license.txt
 readme.rst
 
 # IDE Files
