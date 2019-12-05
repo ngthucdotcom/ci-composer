@@ -21,9 +21,21 @@ composer require ngthuc/ci-custom-core
 ```shell
 composer update
 ```
-2. Go to /vendor/ngthuc/ci-custom-core/
-3. Copy all files on this directory, exclude composer.json, LICENSE and README.md
-4. Create .env file same [.]env to set-up database
+2. Move files from `/vendor/ngthuc/ci-custom-core/` to the root folder structure:
+```shell
+root                          # → Root Directory
+└── vendor/
+    └── ngthuc/
+        └── ci-custom-core
+            ├── apllication/
+            ├── .editorconfig
+            ├── .gitignore
+            ├── .htaccess
+            ├── [.]env
+            ├── index.php
+            ├── LICENSE.txt
+```
+3. Create .env file same [.]env to set-up database
 
 # Authors and contact
 --------------------------
