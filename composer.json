@@ -31,7 +31,31 @@
         "codeigniter/framework": "^3.1",
         "vlucas/phpdotenv": "^4.0"
     },
+    "autoload": {
+        "files": [
+            "application/config/autoload.php",
+            "application/config/config.php",
+            "application/config/database.php",
+            "application/config/routes.php",
+            "application/core/MY_Controller.php",
+            "application/core/MY_Model.php",
+            "application/libraries/Env.php",
+            ".editorconfig",
+            ".gitignore",
+            ".htaccess",
+            "[.]env",
+            "index.php",
+            "LICENSE.txt"
+        ],
+        "exclude-from-classmap": [
+            "README.md", 
+            "composer.json"
+        ]
+    },
     "archive": {
-        "exclude": ["./README.md", "./composer.json"]
+        "exclude": [
+            "README.md", 
+            "composer.json"
+        ]
     }
 }
