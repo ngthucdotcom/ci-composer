@@ -33,7 +33,7 @@ root                          # → Root Directory
             ├── .htaccess
             ├── [.]env
             ├── index.php
-            ├── LICENSE.txt
+            └── LICENSE.txt
 ```
 3. Create .env file same [.]env to set-up database
 
