@@ -28,10 +28,13 @@ root                          # → Root Directory
     └── ngthuc/
         └── ci-custom-core
             ├── apllication/
+            ├── public/
+            ├── .bowerrc
             ├── .editorconfig
             ├── .gitignore
             ├── .htaccess
             ├── [.]env
+            ├── bower.json
             ├── index.php
             └── LICENSE.txt
 ```
