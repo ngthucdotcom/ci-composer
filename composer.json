@@ -32,6 +32,6 @@
         "vlucas/phpdotenv": "^4.0"
     },
     "archive": {
-        "exclude": ["README.md", "composer.json"]
+        "exclude": ["./README.md", "./composer.json"]
     }
 }
