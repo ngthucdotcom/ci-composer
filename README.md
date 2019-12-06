@@ -21,13 +21,13 @@ composer require ngthuc/ci-custom-core
 ```shell
 composer update
 ```
-2. Move all files from `/vendor/ngthuc/ci-custom-core/core/` to the root folder structure:
+2. Move all files from `/vendor/ngthuc/ci-custom-core/app/` to the root folder structure:
 ```shell
 root                          # → Root Directory
 └── vendor/
     └── ngthuc/
         └── ci-custom-core/
-            └── core/
+            └── app/
                 ├── apllication/
                 ├── public/
                 ├── .bowerrc
