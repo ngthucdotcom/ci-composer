@@ -1,10 +1,8 @@
 # Server Requirements
---------------------------
 * OS: Linux 18.04 (recommended)
 * PHP: PHP 5.6 or newer
 
 # Installation
---------------------------
 ## Create project
 1. Run composer create project (for init new project) or update (for reload dependencies on new environment) via command line at root folder
 * Create project
@@ -57,18 +55,15 @@ php -S localhost:8000
 ```
 
 # Author
---------------------------
 * [Nguyen Thuc](https://ngthuc.github.io/)
 * Homepage: ngthuc.com
 * Packagist: [CodeIgniter custom core](https://packagist.org/packages/ngthuc/ci-custom-core) by ngthuc
 * Email: contact[at]ngthuc.com
 
 # Credit
---------------------------
 This project using projects or dependencies:
 * CodeIgniter by [B.C. Institute of Technology](https://github.com/bcit-ci/CodeIgniter) (originally from EllisLab).
 * PHP dotenv by [vlucas](https://github.com/vlucas/phpdotenv).
 
 # License
---------------------------
 CodeIgniter Core Custom is licensed under [MIT License](LICENSE).
