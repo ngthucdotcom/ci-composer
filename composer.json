@@ -27,7 +27,7 @@
         }
     ],
     "require": {
-  	    "php": ">=5.3.7",
+  	    "php": ">=5.6",
         "codeigniter/framework": "^3.1",
         "vlucas/phpdotenv": "^4.0"
     }

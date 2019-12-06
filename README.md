@@ -1,3 +1,7 @@
+# Server Requirements
+--------------------------
+PHP version 5.6 or newer is recommended.
+
 # Installation
 --------------------------
 ## Create project
@@ -41,7 +45,7 @@ root                          # → Root Directory
 ```
 3. Create .env file same [.]env to set-up database
 
-# Authors
+# Author
 --------------------------
 * [Nguyen Thuc](https://ngthuc.github.io/)
 * Homepage: ngthuc.com
