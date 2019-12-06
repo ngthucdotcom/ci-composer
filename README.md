@@ -46,6 +46,16 @@ root                          # → Root Directory
 ```
 3. Create .env file same [.]env to set-up database
 
+# Usage
+* Use Apache - MySQL/MariaDB - PHP (AMP) stack as a software (e.g., [XAMPP](https://www.apachefriends.org/index.html)/[AMPPS](https://www.ampps.com/)/[WAMP](http://www.wampserver.com/en/))
+* Install AMP stack packages on Linux or Windows, and move project to root directory of Apache
+* If you has PHP 5.4.0 or newer, you can [built-in web server](https://www.php.net/manual/en/features.commandline.webserver.php) via command:
+```shell
+php -S <address>:<port> -t <YOUR_PROJECT_FOLDER/>
+# Example use this command on root directory
+php -S localhost:8000
+```
+
 # Author
 --------------------------
 * [Nguyen Thuc](https://ngthuc.github.io/)
