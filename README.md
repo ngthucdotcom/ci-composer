@@ -1,6 +1,7 @@
 # Server Requirements
 --------------------------
-PHP version 5.6 or newer is recommended.
+* OS: Linux 18.04 (recommended)
+* PHP: PHP 5.6 or newer
 
 # Installation
 --------------------------
