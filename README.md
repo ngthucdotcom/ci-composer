@@ -46,8 +46,7 @@ root                          # → Root Directory
 
 # Usage
 * Use Apache - MySQL/MariaDB - PHP (AMP) stack as a software (e.g., [XAMPP](https://www.apachefriends.org/index.html)/[AMPPS](https://www.ampps.com/)/[WAMP](http://www.wampserver.com/en/))
-* Install AMP stack packages on Linux or Windows, and move project to root directory of Apache (e.g., `www/`)
-* If you has PHP 5.4.0 or newer, you can [built-in web server](https://www.php.net/manual/en/features.commandline.webserver.php) via command:
+* Install AMP stack packages on Linux or Windows, and move project to root directory of Apache (e.g., `www/`) and use [built-in web server](https://www.php.net/manual/en/features.commandline.webserver.php) (with PHP 5.4.0 or newer) via command:
 ```shell
 php -S <address>:<port> -t <YOUR_PROJECT_FOLDER/>
 # Example use this command on root directory
