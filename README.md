@@ -145,7 +145,7 @@ class Api extends RestController {
 This project using projects or dependencies:
 * CodeIgniter by [B.C. Institute of Technology](https://github.com/bcit-ci/CodeIgniter) (originally from EllisLab).
 * PHP dotenv by [vlucas](https://github.com/vlucas/phpdotenv).
-* git
+* CodeIgniter RestServer by [chriskacerguis](https://github.com/chriskacerguis/codeigniter-restserver)
 
 # License
 CodeIgniter Core Custom is licensed under [MIT License](LICENSE).
