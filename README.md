@@ -138,7 +138,7 @@ class Api extends RestController {
 # Author
 * [Nguyen Thuc](https://ngthuc.github.io/)
 * Homepage: ngthuc.com
-* Packagist: [CodeIgniter custom core](https://packagist.org/packages/ngthuc/ci-composer) by ngthuc
+* Packagist: [Packaged](https://packagist.org/packages/ngthuc/ci-composer) by ngthuc
 * Email: contact[at]ngthuc.com
 
 # Credit
