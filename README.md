@@ -7,7 +7,7 @@
 1. Run composer create project (for init new project) or update (for reload dependencies on new environment) via command line at root folder
 * Create project
 ```shell
-composer create-project ngthuc/ci-with-composer
+composer create-project ngthuc/ci-composer
 ```
 * Reload dependencies
 ```shell
@@ -18,18 +18,18 @@ composer update
 1. Run composer require project (for init new project) or update (for reload dependencies on new environment) via command line at root folder
 * Require project
 ```shell
-composer require ngthuc/ci-with-composer
+composer require ngthuc/ci-composer
 ```
 * Reload dependencies
 ```shell
 composer update
 ```
-2. Move all files from `/vendor/ngthuc/ci-with-composer/app/` to the root folder structure:
+2. Move all files from `/vendor/ngthuc/ci-composer/app/` to the root folder structure:
 ```shell
 root                          # → Root Directory
 └── vendor/
     └── ngthuc/
-        └── ci-with-composer/
+        └── ci-composer/
             └── app/
                 ├── apllication/
                 ├── public/
@@ -138,7 +138,7 @@ class Api extends RestController {
 # Author
 * [Nguyen Thuc](https://ngthuc.github.io/)
 * Homepage: ngthuc.com
-* Packagist: [CodeIgniter custom core](https://packagist.org/packages/ngthuc/ci-with-composer) by ngthuc
+* Packagist: [CodeIgniter custom core](https://packagist.org/packages/ngthuc/ci-composer) by ngthuc
 * Email: contact[at]ngthuc.com
 
 # Credit
