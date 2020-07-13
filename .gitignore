@@ -10,6 +10,8 @@ application/logs/*
 
 composer.lock
 /vendor/
+/public/bower_components
+.env
 
 # CodeIgniter root source
 user_guide_src/build/*
@@ -35,9 +37,3 @@ readme.rst
 *.sublime-project
 /tests/tests/
 /tests/results/
-
-# Github Files
-/.github/
-CODE_OF_CONDUCT.md
-
-*.zip
